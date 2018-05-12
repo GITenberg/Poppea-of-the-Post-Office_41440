@@ -1,0 +1,48 @@
+_repo: Poppea-of-the-Post-Office_41440
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Kinney, Margaret West
+    birthdate: 1872
+    gutenberg_agent_id: '25250'
+    url: http://www.gutenberg.org/2009/agents/25250
+  - agent_name: Kinney, Troy
+    alias: Kinneys, The
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '25249'
+    url: http://www.gutenberg.org/2009/agents/25249
+covers:
+- cover_type: archival
+  image_path: 41440-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wright, Mabel Osgood
+    aliases:
+    - Wright, James Osborne, Mrs.
+    - Barbara
+    - Wright, Mrs. James Osborne
+    birthdate: 1859
+    deathdate: 1934
+    gutenberg_agent_id: '4028'
+    url: http://www.gutenberg.org/2009/agents/4028
+    wikipedia: http://en.wikipedia.org/wiki/Mabel_Osgood_Wright
+description: ''
+gutenberg_issued: '2012-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41440'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Post offices -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Foundlings -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PS'
+- !lcsh 'City and town life -- Fiction'
+title: Poppea of the Post-Office
+url: http://www.gutenberg.org/ebooks/41440
