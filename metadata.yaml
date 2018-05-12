@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4028
     wikipedia: http://en.wikipedia.org/wiki/Mabel_Osgood_Wright
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41440#Poppea-of-the-Post-Office
 gutenberg_issued: '2012-11-22'
 gutenberg_type: Text
 identifiers:
